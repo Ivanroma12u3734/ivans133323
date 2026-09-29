@@ -1,0 +1,6 @@
+@ApiVulnerableDAST_HostAddress = http://localhost:5043
+
+GET {{ApiVulnerableDAST_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
